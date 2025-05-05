@@ -1,4 +1,7 @@
 # Aim:
+## Name : SHREEDAHR KUMAR K.J
+## Reg No: 212224230265
+## Date : 05-05-2025
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
 The manufacturer records product creation details on-chain.
@@ -63,6 +66,15 @@ Helps prevent counterfeit luxury goods.
 
 
 Teaches real-world supply chain use cases.
+# OUTPUT:
+##Register
+![Screenshot 2025-05-05 135045](https://github.com/user-attachments/assets/ca927f95-04ef-4f14-aae8-42c97511e280)
+## Transaction
+![Screenshot 2025-05-05 135350](https://github.com/user-attachments/assets/fc5ce4bf-d3a6-4b82-8d83-bd9be1f41bd0)
+
+## Verification
+![image](https://github.com/user-attachments/assets/77d03e80-824a-4625-ba03-ec554b8119c4)
 
 # RESULT : 
 
+A smart contract that tracks the supply chain of luxury goods and ensuring authenticity is successfully executed.
