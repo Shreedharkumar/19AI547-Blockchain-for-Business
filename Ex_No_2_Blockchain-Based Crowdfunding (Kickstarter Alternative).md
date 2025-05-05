@@ -61,14 +61,12 @@ contract Crowdfunding {
 }
 ```
 # Expected Output:
-Users can contribute ETH to the campaign.
-
-
 If the goal is met, the creator can withdraw funds.
 
-
-If the goal is not met, contributors can claim a refund.
-
+If the goal is not met, contributors can claim a refund. 
+![Screenshot 2025-05-05 133208](https://github.com/user-attachments/assets/3df90c22-688c-4d4c-8d03-3ab9fd008431)
+![Screenshot 2025-05-05 133523](https://github.com/user-attachments/assets/db9734ca-0670-4d08-83c9-017572aac3e1)
+![Screenshot 2025-05-05 133609](https://github.com/user-attachments/assets/19f2302d-1525-43c7-a28a-8cc13bc01da7)
 
 # High-Level Overview:
 Teaches decentralized fundraising.
@@ -77,3 +75,4 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+Thus, a decentralized crowdfunding platform has been created and successfully executed.
