@@ -1,4 +1,5 @@
-# Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
+# NAME:SHREEDHAR KUMAR K.J
+# REG.NO:212224230265
 # Aim:
 # To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
@@ -35,7 +36,7 @@ Every completed transaction updates the price learning algorithm to refine futur
 
 
 # Program:
-```
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
@@ -89,7 +90,7 @@ contract AIPoweredNegotiation {
         return (base + offer) / 2; // Simple AI-based counteroffer logic
     }
 }
-```
+
 
 # Expected Output:
 Buyers submit offers, and the contract auto-negotiates the price.
@@ -115,5 +116,6 @@ Can be extended to AI oracles for real-time market data.
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # RESULT:
-
-
+![Screenshot 2025-04-30 085547](https://github.com/user-attachments/assets/e9d221bc-c9e6-4331-86d0-0ae87c8be86e)
+![Screenshot 2025-04-30 085503](https://github.com/user-attachments/assets/2dffcc1a-b970-47ab-a3ba-3de718cb3a4d)
+![Screenshot 2025-04-30 085441](https://github.com/user-attachments/assets/4ab269d7-605b-420d-9bb2-388b006e70b6)
