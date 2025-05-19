@@ -65,4 +65,4 @@ High-Level Overview:
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
 # Result:
-The certificate is correct if its hash matches the one stored on the blockchain, and it is not revoked or expired.
+Thus,the certificate is correct if its hash matches the one stored on the blockchain, and it is not revoked or expired.
